@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/startup-conclave/static/css/main.266aa71b.css",
+    "main.js": "/startup-conclave/static/js/main.66737365.js",
+    "static/js/787.a547cd26.chunk.js": "/startup-conclave/static/js/787.a547cd26.chunk.js",
+    "static/media/adi.png": "/startup-conclave/static/media/adi.b65e553ebd1c05c95c4f.png",
+    "static/media/z.png": "/startup-conclave/static/media/z.d6044954923cb3377c31.png",
+    "static/media/bg.png": "/startup-conclave/static/media/bg.4cd016bc2b95284c656b.png",
+    "static/media/tbif.png": "/startup-conclave/static/media/tbif.b7e95b160ffaf3b54af4.png",
+    "static/media/iit.png": "/startup-conclave/static/media/iit.ec3b8e5a906b07b0a2b4.png",
+    "static/media/Anish.jpeg": "/startup-conclave/static/media/Anish.a21b1fa39960342d8ec8.jpeg",
+    "static/media/i1.png": "/startup-conclave/static/media/i1.bc8f1760b359def0074c.png",
+    "static/media/sarb.jpeg": "/startup-conclave/static/media/sarb.e56214d8cf8f0f4ad9d1.jpeg",
+    "static/media/kritika.jpeg": "/startup-conclave/static/media/kritika.c718915ba5598f293b52.jpeg",
+    "static/media/e4.jpeg": "/startup-conclave/static/media/e4.4a3072c80208c11636a9.jpeg",
+    "static/media/i2.png": "/startup-conclave/static/media/i2.899300d079ec89ac90b9.png",
+    "static/media/nishika.jpeg": "/startup-conclave/static/media/nishika.f7fcc909756ac4442c7d.jpeg",
+    "static/media/e2.jpeg": "/startup-conclave/static/media/e2.a25fba50ef5a65e06633.jpeg",
+    "static/media/e7.jpeg": "/startup-conclave/static/media/e7.c2ce2be46e56e578dbcb.jpeg",
+    "static/media/e3.jpeg": "/startup-conclave/static/media/e3.015a9933274e6ebd6bbe.jpeg",
+    "static/media/img.jpeg": "/startup-conclave/static/media/img.19dbe7b6e8d0c0d074bc.jpeg",
+    "static/media/intern-fair.jpeg": "/startup-conclave/static/media/intern-fair.f1ecbad969a6afaa62f5.jpeg",
+    "static/media/e1.png": "/startup-conclave/static/media/e1.233cfb74716820353bfe.png",
+    "index.html": "/startup-conclave/index.html",
+    "main.266aa71b.css.map": "/startup-conclave/static/css/main.266aa71b.css.map",
+    "main.66737365.js.map": "/startup-conclave/static/js/main.66737365.js.map",
+    "787.a547cd26.chunk.js.map": "/startup-conclave/static/js/787.a547cd26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266aa71b.css",
+    "static/js/main.66737365.js"
+  ]
+}
