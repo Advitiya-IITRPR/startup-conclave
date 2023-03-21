@@ -1,10 +1,10 @@
 import React from 'react'
-import background from "./img/bg.png";
+import background from "./img/bg-1.jpg";
 
 const Hero = () => {
     return (
         <section
-            className="relative img" style={{ backgroundImage: `url(${background})` }}
+            className="relative img" style={{ backgroundImage: `url(${background})` , backgroundRepeat:'no-repeat'}}
         >
             <div
                 className="absolute"
